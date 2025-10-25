@@ -1,3 +1,6 @@
+https://modelprediction-ftplfjs7rvfwbokwkteqce.streamlit.app/
+
+
 📊 Interactive Machine Learning Dashboard
 
 A professional Machine Learning dashboard built with Python and Streamlit, designed to compare regression models — Linear Regression, Decision Tree, and Random Forest — through an interactive 3D Plotly visualization.
